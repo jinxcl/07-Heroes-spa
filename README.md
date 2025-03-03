@@ -19,6 +19,6 @@ If you are developing a production application, we recommend using TypeScript an
 - git status (to get the status of your code)
 - git add . (to add all the modified code)
 - git commit -m "message" (to commit your modification with messages)
-- git push (to push your commit)
+- git push origin head(to push your commit)
 - git checkout branch_name (to get the code from specified branch)
 - git branch - c name_new_branch (to create a new branch with _ no spaces  )
